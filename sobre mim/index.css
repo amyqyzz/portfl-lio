@@ -1,0 +1,93 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 14px;
+}
+/*
+.button1 {
+    background-color: black; 
+    color: black; 
+    border-radius:100%;
+    border: 2px solid palevioletred;
+  }
+  
+  .button1:hover {
+    background-color:white;
+    color: white;
+  }
+*/
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    text-shadow: 2px 2px 8px palevioletred;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid palevioletred;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: palevioletred;
+}
+
+p {
+ font-size: larger;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+footer img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 5px solid palevioletred;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    background-color: palevioletred;
+    margin: 30px;
+    border-radius:100%;
+    border: 3px solid palevioletred;
+}
+
+footer a:hover {
+    box-shadow: 0 12px 6px 0 rgb(73, 72, 72),0 17px 50px 0 rgb(199, 199, 199);
+}
+
+h3 {
+    font-size: x-large;
+}
+
+h4 {
+    font-size: x-large;
+}
+
+li {
+    font-size: x-large;
+}
+body {
+    background-image: url(https://i.pinimg.com/236x/8a/2d/b3/8a2db35ee579c177400c83a1c92e7412.jpg);
+  }
+  
